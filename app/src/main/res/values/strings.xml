@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AnimationBetweenActivities</string>
+    <string-array name="AnimationName">
+        <item >淡入淡出</item>
+        <item>缩小淡入淡出</item>
+        <item>放大淡入淡出</item>
+        <item>放大切入切出</item>
+        <item>缩小切入切出</item>
+        <item>上滑切入切出</item>
+        <item>下滑切入切出</item>
+        <item>左滑切入切出</item>
+        <item>右滑切入切出</item>
+        <item>旋转飞入飞出</item>
+    </string-array>
+</resources>
